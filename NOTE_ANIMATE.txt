@@ -1,0 +1,3 @@
+Este arquivo é apenas uma nota. O pacote tailwindcss-animate já está incluído no package.json.
+Se encontrar erros ao instalar, adicione manualmente:
+npm install tailwindcss-animate
